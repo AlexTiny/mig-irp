@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alextiny.github.io/mig-irp/sitemap.xml
