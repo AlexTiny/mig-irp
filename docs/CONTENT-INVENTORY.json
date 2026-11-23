@@ -1,0 +1,95 @@
+{
+  "categories": {
+    "ssm": [
+      {
+        "slug": "evaluarea-riscurilor",
+        "title": "Evaluarea riscurilor profesionale"
+      },
+      {
+        "slug": "plan-prevenire-protectie",
+        "title": "Planul de prevenire și protecție"
+      },
+      {
+        "slug": "instructiuni-proprii",
+        "title": "Instrucțiuni proprii SSM"
+      },
+      {
+        "slug": "tematici-instruire",
+        "title": "Tematici și programe de instruire SSM"
+      },
+      {
+        "slug": "decizii-organizare",
+        "title": "Decizii și organizare SSM"
+      },
+      {
+        "slug": "evenimente-munca",
+        "title": "Sprijin privind evenimentele de muncă"
+      },
+      {
+        "slug": "semnalizare-securitate",
+        "title": "Semnalizare de securitate"
+      }
+    ],
+    "su": [
+      {
+        "slug": "instructiuni-su",
+        "title": "Instrucțiuni proprii SU / PSI"
+      },
+      {
+        "slug": "tematici-instruire-su",
+        "title": "Tematici de instruire SU"
+      },
+      {
+        "slug": "documente-organizare-su",
+        "title": "Documente de organizare SU"
+      },
+      {
+        "slug": "exercitii-evacuare",
+        "title": "Exerciții de evacuare"
+      }
+    ],
+    "rsvti": [
+      {
+        "slug": "instalatii-ridicat",
+        "title": "Instalații de ridicat"
+      },
+      {
+        "slug": "instalatii-presiune",
+        "title": "Instalații sub presiune"
+      },
+      {
+        "slug": "personal-deservire",
+        "title": "Personal de deservire și autorizări"
+      }
+    ]
+  },
+  "pages": [
+    "contact.html",
+    "despre.html",
+    "index.html",
+    "legal/confidentialitate.html",
+    "legal/termeni.html",
+    "servicii/index.html",
+    "resurse/evacuare-clara.html",
+    "resurse/ssm-preventie.html",
+    "resurse/index.html",
+    "resurse/evidente-iscir.html",
+    "servicii/rsvti/personal-deservire.html",
+    "servicii/rsvti/instalatii-presiune.html",
+    "servicii/rsvti/index.html",
+    "servicii/rsvti/instalatii-ridicat.html",
+    "servicii/ssm/instructiuni-proprii.html",
+    "servicii/ssm/tematici-instruire.html",
+    "servicii/ssm/evaluarea-riscurilor.html",
+    "servicii/ssm/semnalizare-securitate.html",
+    "servicii/ssm/index.html",
+    "servicii/ssm/evenimente-munca.html",
+    "servicii/ssm/decizii-organizare.html",
+    "servicii/ssm/plan-prevenire-protectie.html",
+    "servicii/su/instructiuni-su.html",
+    "servicii/su/tematici-instruire-su.html",
+    "servicii/su/index.html",
+    "servicii/su/documente-organizare-su.html",
+    "servicii/su/exercitii-evacuare.html"
+  ]
+}
